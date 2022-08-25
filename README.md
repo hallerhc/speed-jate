@@ -1,7 +1,7 @@
 # speed-jate
 
 ## Description
-
+This app is a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,8 +15,10 @@
 * [Images](#images)
 
 ## Installation
+Clone the repository and then run "npm install" to install necessary dependencies. When offline, user can press the "install" button at the top left corner of the page.
 
 ## Usage
+Homework 
 
 ## Contribution
 There were no other contributers on this project
