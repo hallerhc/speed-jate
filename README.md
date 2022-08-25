@@ -15,7 +15,7 @@ This app is a text editor that runs in the browser. The app will be a single-pag
 * [Images](#images)
 
 ## Installation
-Clone the repository and then run "npm install" to install necessary dependencies. When offline, user can press the "install" button at the top left corner of the page.
+Clone the repository and then run "npm install" in terminal to install necessary dependencies. When offline, user can press the "install" button at the top left corner of the page.
 
 ## Usage
 Homework 
